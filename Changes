@@ -1,0 +1,19 @@
+0.3.0.0 Sun Mar 17 2013 19:11
+    - Moved Emacs config (everything before this release) to dotfiles repo
+
+0.2.1.0 Sun May 13 2012 16:35
+    - Remapped alt key
+    - 2-space indentation in sql-mode
+
+0.2.0.0 Tue May 08 2012 10:49
+    - autoload was missing for some modes
+    - improved comments and formatting
+    - fixed a couple of typos
+    - Regexp improvement (for file type detection)
+
+0.1.1.0 Mon May 07 2012 11:09
+    - fixed some Markdown issues in the README
+    - updated the installation instructions
+
+0.1.0.0 Mon May 07 2012 10:02
+    - first release.
